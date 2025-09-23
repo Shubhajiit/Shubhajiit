@@ -35,9 +35,11 @@
 ## 📊 GitHub Statistics
 
 ![Shubhajjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhajiit&show_icons=true&theme=radical) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubhajiit&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhajiit&layout=compact&theme=radical)
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+  <img style="margin: 10px;" src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=Shubhajiit&theme=tokyonight&hide_border=true" alt="subhzt's Streak" />
+</div>
 
 
 ## 📫 Let's Connect!
